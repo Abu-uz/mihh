@@ -13,19 +13,13 @@ body {
     padding: 20px;
 }
 
-.lets {
-    margin-top: 120px;
-}
+
 
 #i {
     color: #FFFF;
 
 }
 
-.p {
-    margin-top: 25%;
-
-}
 
 .btn1 {
     border-radius: 50px;
@@ -38,7 +32,7 @@ body {
     color: #FFFF;
     display: flex;
     justify-content: space-between;
-    padding: 20px;
+
 }
 
 .btn {
